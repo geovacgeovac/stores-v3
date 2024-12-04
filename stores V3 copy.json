@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Store A",
+    "address": "123 Main St, Toronto, ON",
+    "postal_code": "M5H 2N2",
+    "latitude": 43.65107,
+    "longitude": -79.347015,
+    "contact": "123-456-7890",
+    "tags": ["electronics", "furniture"]
+  },
+  {
+    "name": "Store B",
+    "address": "456 Queen St, Toronto, ON",
+    "postal_code": "M5V 2B6",
+    "latitude": 43.644321,
+    "longitude": -79.39463,
+    "contact": "987-654-3210",
+    "tags": ["clothing", "accessories"]
+  },
+  {
+    "name": "Store C",
+    "address": "789 King St, Toronto, ON",
+    "postal_code": "M6P 1A9",
+    "latitude": 43.653908,
+    "longitude": -79.45238,
+    "contact": "555-555-5555",
+    "tags": ["groceries", "household"]
+  }
+]
